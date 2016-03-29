@@ -4,7 +4,7 @@ body{
 
 .clementine-text { /* Styling for the Clementine.js text */
 	padding: 10px;
-	margin: -20px 0 10px 0;
+	margin: -20px -10px 10px -10px;
 	font-weight: 500;
 	font-size: 60px;
   font-family: sans-serif;
